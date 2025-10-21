@@ -23,6 +23,18 @@ h2{
     text-align: center;
 }
 
+h3{
+    font-size: 20px;
+    text-decoration-line: underline;
+    font-style: italic;
+    text-align: center;
+}
+
+b{
+    font-weight: normal;
+    color: #f02425
+}
+
 strong{
     font-size: 20px;
     font-family: sans-serif;
@@ -35,11 +47,6 @@ em{
     color: #f02425;
 }
 
-b{
-    font-size: 20px;
-    text-decoration-line: underline;
-    font-style: italic;
-}
 
 .Astuce{
     background-color: #FFE48A;
